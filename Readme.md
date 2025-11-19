@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2600403).
-* Наставник: `Неизвестно`.
+- Студент: [Мисникова Евгения](https://up.htmlacademy.ru/htmlcss-individual/2/user/2600403).
+- Наставник: [Александр Зиновьев](https://htmlacademy.ru/profile/id198751).
+- Сайт: [Мой проект Седона](https://pifun87.github.io/2600403-sedona-2/).
 
 ---
 
